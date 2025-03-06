@@ -6,7 +6,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: radial-gradient(circle, #2c3e50, #000000);
+  background: radial-gradient(circle, #2c3e50, #9b49ca85);
   font-family: 'Poppins', sans-serif;
   color: white;
   text-align: center;
@@ -31,7 +31,7 @@ h1 {
 
 /* Canvas */
 canvas {
-  background: linear-gradient(135deg, #16a085, #3fcaf427);
+  background: linear-gradient(135deg, #586ace, #32c25127);
   border: 6px solid white;
   border-radius: 12px;
   box-shadow: 0px 0px 25px rgba(255, 255, 255, 0.5);
